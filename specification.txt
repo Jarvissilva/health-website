@@ -1,0 +1,5 @@
+Pages
+- Home - /
+- Search - /search
+- StoreCategory - /store/category/:slug
+- StoreProduct - /store/product/:slug

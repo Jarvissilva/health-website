@@ -1,0 +1,9 @@
+@tailwind base;
+
+@tailwind components;
+
+.frbc {
+  @apply flex flex-row justify-between items-center;
+}
+
+@tailwind utilities;
